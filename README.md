@@ -1,6 +1,6 @@
 <!--  -->
 <a href="#" target="_blank">
-  <img src="svg/mysvg.svg" width="1200" alt="-official" />
+  <img src="mysvg.svg" width="1200" alt="-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
